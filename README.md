@@ -1,6 +1,6 @@
 ### Olá! Sou a Sabrina!
 # 💫 About Me:
-👩🏻‍💻 Software Engineer/back-end/front-end developer<br>🎓 Studied 
+👩🏻‍💻 Software Engineer🎓 Studied 
 >Undergraduate Education/ Bachelor's degree math/ C2 (English)
 
 💭 Currently learning about cyber security and AI
